@@ -1,2 +1,1 @@
-
-https://doronmaor.github.io/TextSwitcherHebrew/TextSwitcherHebrewPicture.html
+https://doronmaor.github.io/TextSwitcherHebrew/index.html
